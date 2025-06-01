@@ -12,8 +12,17 @@ body{
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     border-radius: 10px;
     display: flex;
-    justify-content: flex-end;
+    justify-content: space-between;
+    align-items: center;
     padding: 0px 10px 0px 0px;
+}
+.container .list-text .list-p{
+    color: #552834;
+    font-size: 25px;
+    padding: 0px 0px 0px 10px;
+}
+.container .list-text .list-p .list-s{
+    color: #f2c94c;
 }
 .container .list-ul{
     display: flex;
@@ -65,6 +74,43 @@ body{
     padding: 10px;
     text-align: center;
     border-radius: 10px;
+}
+/* content */
+.content {
+    margin-top: 30px;
+    display: flex; 
+    justify-content: space-evenly;
+}
+.content .forms {
+    position: relative;
+    width: 500px; /* يمكن تعديلها حسب الحاجة */
+    height: 350px; /* يمكن تعديلها حسب الحاجة */
+}
+
+.content .forms .box {
+    position: absolute;
+    border: 4px solid #000;
+    width: 250px;
+    height: 160px;
+    border-radius: 20px;
+    background: transparent;
+}
+.box1 {
+    top: 0;
+    left: 100px;
+    z-index: 1;
+    overflow: hidden;
+    background: url('');
+}
+.box2 {
+    top: 40px;
+    left: 250px;
+    z-index: 2;
+}
+.box3 {
+    top: 120px;
+    left: 50px;
+    z-index: 3;
 }
 
 
