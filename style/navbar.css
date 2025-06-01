@@ -1,0 +1,73 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #f7f4f4;
+    font-family: 'Poppins', sans-serif;
+}
+/*container*/
+.container {
+    background-color: #fff;
+    width: calc(100% - 20px);
+    margin: 10px auto 0 auto;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    display: flex;
+    justify-content: flex-end;
+    padding: 0px 10px 0px 0px;
+}
+.container .list-ul{
+    display: flex;
+    flex-direction: row;
+}
+.container .list-ul .list-li{
+    margin: 0px 10px 0px 10px;
+    list-style-type: none;
+}
+.container .list-ul .list-li .list-a{
+    text-decoration: none;
+    text-transform:capitalize;
+    color: #552834;
+    font-size: 20px;
+}
+.container .list-ul .list-li .list-a:hover,
+.container .list-ul .list-li .list-a.active{
+    background-color: #552834;
+    color: #f7f4f4;
+    padding: 10px;
+    text-align: center;
+    border-radius: 10px;
+}
+/*container1*/
+.container1{
+    margin-top: 15px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.container1 .list-lu1{
+    display: flex;
+    flex-flow: row wrap;
+    
+}
+.container1 .list-lu1 .list-li1{
+    margin: 0px 10px 0px 10px;
+    list-style-type: none;
+}
+.container1 .list-lu1 .list-li1 .list-a1{
+    text-decoration: none;
+    text-transform:capitalize;
+    color: #552834;
+    font-size: 20px;
+}
+.container1 .list-lu1 .list-li1 .list-a1:hover,
+.container1 .list-lu1 .list-li1 .list-a1.active{
+    background-color: #552834;
+    color: #f7f4f4;
+    padding: 10px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+
+
+
+
