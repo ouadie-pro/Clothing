@@ -639,18 +639,18 @@
                     <div class="absolute bottom-0 left-8  bg-opacity-40 flex items-center justify-center text-white text-2xl p-2 xl:text-2xl ">Shoes-women</div>
                 </a>
                 <a href="#" class="relative hover:-translate-y-2" id="Shoes-kids">
-                    <img src="colthingImage/KidsImage/KidsSpring/KidsSpring7.jpg" alt="" class="xl:w-[80%] mx-auto h-[20vh] rounded-xl shadow-lg">
+                    <img src="colthingImage/ShoesImage/ShoesKids/ShoesKids7.webp" alt="" class="xl:w-[80%] mx-auto h-[20vh] rounded-xl shadow-lg">
                     <div class="absolute bottom-0 left-8  bg-opacity-40 flex items-center justify-center text-white text-2xl p-2 xl:text-2xl ">Shoes-kids</div>
                 </a>
                 <a href="#" class="relative hover:-translate-x-2" id="Shoes-sport">
-                    <img src="colthingImage/KidsImage/KidsAutumn/KidsAutumn7.jpg" alt="" class="xl:w-[80%] mx-auto h-[20vh] rounded-xl shadow-lg">
+                    <img src="colthingImage/ShoesImage/ShoesSport/ShoesSport7.jpg" alt="" class="xl:w-[80%] mx-auto h-[20vh] rounded-xl shadow-lg">
                     <div class="absolute bottom-0 left-8  bg-opacity-40 flex items-center justify-center text-white text-2xl p-2 xl:text-2xl ">Shoes-sport</div>
                 </a>
             </div>
             <!--Menu shoes-->
             <ul class="hidden grid grid-cols-2 md:grid-cols-4 xl:grid-cols-6 gap-4 sm:grid-cols-4 lg:grid-cols-6 w-full" id="shoes-cards">
                 <li class="bg-lime-100 py-3 px-2 rounded-xl border-3 border-lime-800 shadow-lg hover:-translate-y-2">
-                    <img src="colthingImage/ShoesImage/Shoes1.jpg" alt="" class="rounded-lg w-full  h-[30vh] sm:h-[15vh] xl:h-[25vh] object-cover">
+                    <img src="colthingImage/ShoesImage/ShoesMen/ShoesMen12.jpg" alt="" class="rounded-lg w-full  h-[30vh] sm:h-[15vh] xl:h-[25vh] object-cover">
                     <small class="text-sm text-gray-600 block text-lime-900">Elegant long-</small>
                     <h3 class="text-base font-semibold text-lime-900">Floral Print </h3>
                     <div>
@@ -666,7 +666,7 @@
                     </div>
                 </li>
                 <li class="bg-lime-100 py-3 px-2 rounded-xl border-3 border-lime-800 shadow-lg hover:-translate-y-2">
-                    <img src="colthingImage/ShoesImage/Shoes2.jpg" alt="" class="rounded-lg w-full  h-[30vh] sm:h-[15vh] xl:h-[25vh] object-cover">
+                    <img src="colthingImage/ShoesImage/ShoesMen/ShoesMen11.jpg" alt="" class="rounded-lg w-full  h-[30vh] sm:h-[15vh] xl:h-[25vh] object-cover">
                     <small class="text-sm text-gray-600 block text-lime-900">Soft pink high-waist </small>
                     <h3 class="text-base font-semibold text-lime-900">Pleated Midi </h3>
                     <i class="fa-solid fa-star text-yellow-300"></i>
@@ -680,7 +680,7 @@
                     </div>
                 </li>
                 <li class="bg-lime-100 py-3 px-2 rounded-xl border-3 border-lime-800 shadow-lg hover:-translate-y-2">
-                    <img src="colthingImage/ShoesImage/Shoes3.jpg" alt="" class="rounded-lg w-full  h-[30vh] sm:h-[15vh] xl:h-[25vh] object-cover">
+                    <img src="colthingImage/ShoesImage/ShoesWomen/ShoesWomen12.webp" alt="" class="rounded-lg w-full  h-[30vh] sm:h-[15vh] xl:h-[25vh] object-cover">
                     <small class="text-sm text-gray-600 block text-lime-900">Light blue satin</small>
                     <h3 class="text-base font-semibold text-lime-900">Satin Belted </h3>
                     <i class="fa-solid fa-star text-yellow-300"></i>
@@ -694,7 +694,7 @@
                     </div>
                 </li>
                 <li class="bg-lime-100 py-3 px-2 rounded-xl border-3 border-lime-800 shadow-lg hover:-translate-y-2">
-                    <img src="colthingImage/ShoesImage/Shoes4.jpg" alt="" class="rounded-lg w-full  h-[30vh] sm:h-[15vh] xl:h-[25vh] object-cover">
+                    <img src="colthingImage/ShoesImage/ShoesWomen/ShoesWomen11.webp" alt="" class="rounded-lg w-full  h-[30vh] sm:h-[15vh] xl:h-[25vh] object-cover">
                     <small class="text-sm text-gray-600 block text-lime-900">Feminine </small>
                     <h3 class="text-base font-semibold text-lime-900">White Lace </h3>
                     <i class="fa-solid fa-star text-yellow-300"></i>
@@ -708,7 +708,7 @@
                     </div>
                 </li>
                 <li class="bg-lime-100 py-3 px-2 rounded-xl border-3 border-lime-800 shadow-lg hover:-translate-y-2">
-                    <img src="colthingImage/ShoesImage/Shoes5.jpg" alt="" class="rounded-lg w-full  h-[30vh] sm:h-[15vh] xl:h-[25vh] object-cover">
+                    <img src="colthingImage/ShoesImage/ShoesKids/ShoesKids12.jpg" alt="" class="rounded-lg w-full  h-[30vh] sm:h-[15vh] xl:h-[25vh] object-cover">
                     <small class="text-sm text-gray-600 block text-lime-900">Trendy red shirt</small>
                     <h3 class="text-base font-semibold text-lime-900">Casual Red </h3>
                     <i class="fa-solid fa-star text-yellow-300"></i>
@@ -722,7 +722,7 @@
                     </div>
                 </li>
                 <li class="bg-lime-100 py-3 px-2 rounded-xl border-3 border-lime-800 shadow-lg hover:-translate-y-2">
-                    <img src="colthingImage/ShoesImage/Shoes6.jpg" alt="" class="rounded-lg w-full  h-[30vh] sm:h-[15vh] xl:h-[25vh] object-cover">
+                    <img src="colthingImage/ShoesImage/ShoesKids/ShoesKids11.jpg" alt="" class="rounded-lg w-full  h-[30vh] sm:h-[15vh] xl:h-[25vh] object-cover">
                     <small class="text-sm text-gray-600 block text-lime-900">Comfortable and</small>
                     <h3 class="text-base font-semibold text-lime-900">Mint Green Two-</h3>
                     <i class="fa-solid fa-star text-yellow-300"></i>
@@ -736,7 +736,7 @@
                     </div>
                 </li>
                 <li class="bg-lime-100 py-3 px-2 rounded-xl border-3 border-lime-800 shadow-lg hover:-translate-y-2">
-                    <img src="colthingImage/ShoesImage/Shoes7.jpg" alt="" class="rounded-lg w-full  h-[30vh] sm:h-[15vh] xl:h-[25vh] object-cover">
+                    <img src="colthingImage/ShoesImage/ShoesSport/ShoesSport12.jpg" alt="" class="rounded-lg w-full  h-[30vh] sm:h-[15vh] xl:h-[25vh] object-cover">
                     <small class="text-sm text-gray-600 block text-lime-900">Classic long wool</small>
                     <h3 class="text-base font-semibold text-lime-900">Brown Wool</h3>
                     <i class="fa-solid fa-star text-yellow-300"></i>
@@ -750,7 +750,7 @@
                     </div>
                 </li>
                 <li class="bg-lime-100 py-3 px-2 rounded-xl border-3 border-lime-800 shadow-lg hover:-translate-y-2">
-                    <img src="colthingImage/ShoesImage/Shoes8.jpg" alt="" class="rounded-lg w-full  h-[30vh] sm:h-[15vh] xl:h-[25vh] object-cover">
+                    <img src="colthingImage/ShoesImage/ShoesSport/ShoesSport11.webp" alt="" class="rounded-lg w-full  h-[30vh] sm:h-[15vh] xl:h-[25vh] object-cover">
                     <small class="text-sm text-gray-600 block text-lime-900">Shiny sequin skirt</small>
                     <h3 class="text-base font-semibold text-lime-900">Silver Sequin</h3>
                     <i class="fa-solid fa-star text-yellow-300"></i>
@@ -764,7 +764,7 @@
                     </div>
                 </li>
                 <li class="bg-lime-100 py-3 px-2 rounded-xl border-3 border-lime-800 shadow-lg hover:-translate-y-2">
-                    <img src="colthingImage/ShoesImage/Shoes9.jpg" alt="" class="rounded-lg w-full  h-[30vh] sm:h-[15vh] xl:h-[25vh] object-cover">
+                    <img src="colthingImage/ShoesImage/ShoesMen/ShoesMen10.jpg" alt="" class="rounded-lg w-full  h-[30vh] sm:h-[15vh] xl:h-[25vh] object-cover">
                     <small class="text-sm text-gray-600 block text-lime-900">Timeless beige</small>
                     <h3 class="text-base font-semibold text-lime-900">Beige Trench</h3>
                     <i class="fa-solid fa-star text-yellow-300"></i>
@@ -778,7 +778,7 @@
                     </div>
                 </li>
                 <li class="bg-lime-100 py-3 px-2 rounded-xl border-3 border-lime-800 shadow-lg hover:-translate-y-2">
-                    <img src="colthingImage/ShoesImage/Shoes10.jpg" alt="" class="rounded-lg w-full  h-[30vh] sm:h-[15vh] xl:h-[25vh] object-cover">
+                    <img src="colthingImage/ShoesImage/ShoesWomen/ShoesWomen10.jpg" alt="" class="rounded-lg w-full  h-[30vh] sm:h-[15vh] xl:h-[25vh] object-cover">
                     <small class="text-sm text-gray-600 block text-lime-900">Simple and</small>
                     <h3 class="text-base font-semibold text-lime-900">Light Blue</h3>
                     <i class="fa-solid fa-star text-yellow-300"></i>
@@ -792,7 +792,7 @@
                     </div>
                 </li>
                 <li class="bg-lime-100 py-3 px-2 rounded-xl border-3 border-lime-800 shadow-lg hover:-translate-y-2">
-                    <img src="colthingImage/ShoesImage/Shoes11.jpg" alt="" class="rounded-lg w-full  h-[30vh] sm:h-[15vh] xl:h-[25vh] object-cover">
+                    <img src="colthingImage/ShoesImage/ShoesKids/ShoesKids10.jpg" alt="" class="rounded-lg w-full  h-[30vh] sm:h-[15vh] xl:h-[25vh] object-cover">
                     <small class="text-sm text-gray-600 block text-lime-900">Chic white ruffle</small>
                     <h3 class="text-base font-semibold text-lime-900">White Ruffle</h3>
                     <i class="fa-solid fa-star text-yellow-300"></i>
@@ -806,7 +806,7 @@
                     </div>
                 </li>
                 <li class="bg-lime-100 py-3 px-2 rounded-xl border-3 border-lime-800 shadow-lg hover:-translate-y-2">
-                    <img src="colthingImage/ShoesImage/Shoes12.jpg" alt="" class="rounded-lg w-full  h-[30vh] sm:h-[15vh] xl:h-[25vh] object-cover">
+                    <img src="colthingImage/ShoesImage/ShoesSport/ShoesSport10.jpg" alt="" class="rounded-lg w-full  h-[30vh] sm:h-[15vh] xl:h-[25vh] object-cover">
                     <small class="text-sm text-gray-600 block text-lime-900">Comfortable</small>
                     <h3 class="text-base font-semibold text-lime-900">Classic Blue</h3>
                     <i class="fa-solid fa-star text-yellow-300"></i>
